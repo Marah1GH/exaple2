@@ -1,0 +1,23 @@
+.b{
+    color: red;
+    font-size: 40px;
+}
+.c:hover{
+border-radius: 50%;
+width: 300px;
+height: 300px;
+transition: 0.4s;
+border: 5px dotted palevioletred;
+}
+.d{
+    width : 200px;
+    color: blue;
+}
+a{
+    color: blue;
+
+}
+a:hover{
+    color: orangered;
+}
+
